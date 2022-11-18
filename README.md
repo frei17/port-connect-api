@@ -1,4 +1,4 @@
-#port-connect-api-script.py
+# port-connect-api-script.py
 A script that makes a call to the Vessel Schedule endpoint of Port-Connect API, filters through the response results based on desired search parameters and writes the output into Excel spreadsheet.
 
 # Export Schedule - AKL.xlsx
